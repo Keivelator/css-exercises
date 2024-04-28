@@ -11,9 +11,15 @@ html {
   box-sizing: border-box;
 
   display: grid;
+<<<<<<< HEAD
   grid-template-columns: 1fr 3fr;
   grid-template-rows: 1fr 1fr 5fr 1fr;
   gap: 15px;
+=======
+  gap: 15px;
+  grid-template-rows: 1fr 1fr 5fr 1fr;
+  grid-template-columns: 1fr 3fr;
+>>>>>>> 528d9631c4703b1b4f39c2573ade7fc104451b93
 }
 
 .container div {
